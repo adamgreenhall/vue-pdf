@@ -80,7 +80,7 @@ declare const _default: __VLS_WithTemplateSlots<import("vue").DefineComponent<__
     autoDestroy: boolean;
 }, {}>, {
     default?(_: {}): any;
-    footer?(_: {
+    overlay?(_: {
         width: number | undefined;
         height: number | undefined;
     }): any;

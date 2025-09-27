@@ -801,7 +801,7 @@ const Fl = /* @__PURE__ */ cl("canvas", {
         ], 512), [
           [Vl, z.value]
         ]),
-        ll(N.$slots, "footer", {
+        ll(N.$slots, "overlay", {
           width: (L = T.value.viewport) == null ? void 0 : L.width,
           height: (R = T.value.viewport) == null ? void 0 : R.height
         })
